@@ -52,10 +52,10 @@ Unknown
 
 \section status Status and planned development
 <!-- e.g. completed, stable, missing features -->
-Unknown
+DQM modules should comply with multi-threading requirements...
 
 <hr>
-Last updated:
+Last updated: 
 @DATE@  Author: computer-generated.
 */
 
